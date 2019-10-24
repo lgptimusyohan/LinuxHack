@@ -5,4 +5,8 @@ public class LinuxStuff {
         int x,y;
     }
 
+    public void SharperPicture(){
+        int z =2000;
+    }
+
 }

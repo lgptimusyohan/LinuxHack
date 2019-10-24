@@ -5,7 +5,7 @@ public class LinuxStuff {
         int x,y;
     }
 
-    public void SharperPicture(){
+    public void SharperPicture(){//works well
         int x = 1080;
         int y = 800;
     }

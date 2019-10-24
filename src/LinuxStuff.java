@@ -1,14 +1,11 @@
 public class LinuxStuff {
 int y;
 
-    public void Screen(){
-        //Better Screen resolution
-        int x,y;
-    }
+   String x;
+    int abc;
 
     public void Sharcture(){//works well
-        int x = 3;
-        int y = 5;
+        //none of these
     }
 
 }

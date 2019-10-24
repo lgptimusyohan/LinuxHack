@@ -6,7 +6,8 @@ public class LinuxStuff {
     }
 
     public void SharperPicture(){//works well
-        int z = 55;
+        int x = 3;
+        int y = 5;
     }
 
 }
